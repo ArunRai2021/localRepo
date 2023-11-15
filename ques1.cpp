@@ -2,6 +2,7 @@
 using namespace std;
 int main(){
     int n;
+    int c = 5;
     cout<< "enter the value of n"<<endl;
     cin>>n;
     if(n % 2 == 0){
